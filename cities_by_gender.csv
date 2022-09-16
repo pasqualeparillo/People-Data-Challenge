@@ -1,0 +1,1257 @@
+city,gender,num_users
+Aberdeen,male,3
+Abilene,female,4
+Abilene,male,1
+Acampo,female,4
+Acampo,male,3
+Acworth,female,2
+Acworth,male,1
+Addison,female,4
+Addison,male,6
+Addison,non_binary,5
+Adger,male,1
+Adger,non_binary,1
+Akron,male,2
+Albany,female,2
+Albany,non_binary,3
+Alexandria,female,1
+Allentown,female,1
+Allentown,male,3
+Alton,female,1
+Altoona,male,1
+Alviso,female,1
+Americus,female,4
+Americus,male,4
+Americus,non_binary,2
+Ames,female,8
+Ames,male,2
+Ames,non_binary,3
+Anchorage,female,4
+Anchorage,male,4
+Anchorage,non_binary,2
+Annapolis,female,1
+Antioch,non_binary,1
+Apopka,female,1
+Apopka,male,1
+Arlington,female,7
+Arlington,male,9
+Asheboro,male,1
+Asheville,female,1
+Asheville,male,2
+Ashford,male,1
+Atascadero,male,1
+Atlanta,female,5
+Atlanta,male,1
+Auburn,female,6
+Auburn,male,3
+Augusta,female,13
+Augusta,male,15
+Augusta,non_binary,8
+Aurora,female,14
+Aurora,male,13
+Aurora,non_binary,8
+Austin,female,3
+Austin,male,4
+Azusa,female,3
+Azusa,male,1
+Bakersfield,female,11
+Bakersfield,male,6
+Bakersfield,non_binary,2
+Balch Springs,female,1
+Baltimore,female,5
+Baltimore,male,8
+Baltimore,non_binary,3
+Baton Rouge,female,9
+Baton Rouge,male,9
+Bay Shore,female,2
+Bay Shore,non_binary,1
+Beaumont,female,3
+Beaumont,male,1
+Beaver,male,1
+Bedford,female,1
+Bedias,female,1
+Bedias,male,4
+Bellbrook,non_binary,1
+Bellevue,male,1
+Beltsville,female,1
+Beltsville,male,2
+Beltsville,non_binary,1
+Bemidji,female,1
+Berkeley,female,2
+Berkeley,male,2
+Berkeley,non_binary,1
+Bernice,female,1
+Berwyn,female,1
+Bessemer,male,1
+Bethany,female,1
+Bethany,male,1
+Bethlehem,female,2
+Bethlehem,male,6
+Bethlehem,non_binary,1
+Beulaville,female,1
+Beulaville,male,5
+Beverly Hills,female,1
+Big Rapids,female,5
+Big Rapids,male,4
+Big Rapids,non_binary,5
+Biloxi,male,1
+Binghamton,female,1
+Black River Falls,male,1
+Bluefield,female,1
+Blythewood,non_binary,1
+Boise,female,6
+Boise,non_binary,1
+Bolivar,male,1
+Bolivar,non_binary,1
+Bolivia,female,7
+Bolivia,male,9
+Bonne Terre,male,1
+Bonneau,female,1
+Boron,non_binary,1
+Bow,female,1
+Bowling Green,female,2
+Box Elder,female,3
+Box Elder,male,2
+Boynton Beach,male,1
+Boynton Beach,non_binary,1
+Bradenton,non_binary,1
+Brandon,female,1
+Brawley,male,2
+Bristol,female,5
+Bristol,male,4
+Broken Arrow,male,1
+Bronson,female,2
+Bronson,male,4
+Bronson,non_binary,1
+Bronx,female,6
+Bronx,male,7
+Bronx,non_binary,7
+Brookeville,male,2
+Brooklyn,female,17
+Brooklyn,male,4
+Brooklyn,non_binary,2
+Brooksville,female,1
+Brooksville,male,2
+Browns Summit,female,2
+Brusly,female,1
+Bryan,female,1
+Bryan,male,5
+Bryan,non_binary,1
+Bucyrus,female,2
+Bucyrus,non_binary,1
+Buffalo,female,3
+Buffalo,male,1
+Buffalo,non_binary,1
+Burbank,female,2
+Burgaw,male,1
+Burleson,male,1
+Caledonia,female,2
+Caledonia,male,3
+Caledonia,non_binary,1
+Calhoun,female,1
+Camarillo,male,1
+Cambridge,female,2
+Cambridge,male,2
+Camden,male,1
+Campbellsville,non_binary,1
+Canton,male,1
+Canton,non_binary,1
+Canyon Lake,male,1
+Cape Girardeau,female,1
+Carlsbad,female,1
+Carlsbad,male,2
+Carmel,female,2
+Carmel,male,6
+Carmel,non_binary,1
+Carol Stream,female,2
+Carol Stream,male,1
+Carol Stream,non_binary,1
+Carpentersville,female,6
+Carpentersville,male,3
+Carpentersville,non_binary,4
+Carson City,non_binary,1
+Cartersville,male,1
+Carthage,female,2
+Carthage,male,1
+Cary,non_binary,1
+Cascade,female,10
+Cascade,male,4
+Cascade,non_binary,1
+Casselberry,male,1
+Center Ridge,non_binary,1
+Central Bridge,female,1
+Central City,female,1
+Chamberlain,non_binary,1
+Chambersburg,female,5
+Chambersburg,male,4
+Chambersburg,non_binary,1
+Champaign,female,1
+Chandler,female,3
+Chandler,male,9
+Chapel Hill,female,1
+Chapel Hill,male,4
+Chapel Hill,non_binary,1
+Chapmanville,male,1
+Charlotte,female,2
+Charlotte,male,4
+Cheney,male,1
+Chenoa,female,4
+Chenoa,male,4
+Chenoa,non_binary,5
+Chesapeake,non_binary,1
+Chester,female,10
+Chester,male,2
+Chester,non_binary,1
+Cheyenne,female,1
+Cheyenne,non_binary,1
+Chicago,female,27
+Chicago,male,17
+Chicago,non_binary,7
+Chickasha,female,6
+Chickasha,male,1
+Childersburg,female,6
+Childersburg,male,9
+Chillicothe,female,4
+Chillicothe,male,4
+Chillicothe,non_binary,1
+Chino Hills,female,1
+Chino Hills,male,1
+Chino Hills,non_binary,2
+Chula Vista,female,4
+Chula Vista,male,7
+Cicero,female,1
+Cincinnati,female,2
+Cincinnati,male,3
+Cincinnati,non_binary,2
+Claremont,female,1
+Claremont,male,1
+Clarksburg,non_binary,1
+Clawson,male,2
+Clay,female,4
+Clay,male,4
+Clayton,female,1
+Clermont,female,3
+Clermont,male,6
+Clermont,non_binary,3
+Cleveland,female,5
+Cleveland,male,11
+Cleveland,non_binary,3
+Clinton,female,5
+Clinton,male,6
+Clinton,non_binary,1
+Cloquet,female,1
+Cloquet,male,1
+Cloquet,non_binary,1
+Clovis,female,1
+Cohasset,female,4
+Cohasset,male,5
+Cohasset,non_binary,5
+College Point,female,1
+Collins,female,2
+Columbia,female,12
+Columbia,male,5
+Columbia,non_binary,5
+Columbus,female,6
+Columbus,male,6
+Columbus,non_binary,1
+Commerce City,non_binary,1
+Conroe,female,1
+Converse,female,7
+Converse,male,5
+Converse,non_binary,4
+Coolville,female,1
+Copperas Cove,female,9
+Copperas Cove,male,3
+Copperas Cove,non_binary,3
+Corvallis,female,1
+Cottondale,female,3
+Cottondale,male,4
+Cottondale,non_binary,1
+Cross Plains,male,1
+Crossville,male,1
+Crossville,non_binary,1
+Crown Point,male,1
+Crown Point,non_binary,1
+Croydon,male,1
+Culver City,male,1
+Cunningham,female,1
+Cunningham,male,2
+Cunningham,non_binary,1
+Cupertino,female,1
+Cypress,female,7
+Cypress,male,4
+Cypress,non_binary,1
+Dacula,female,2
+Dacula,male,2
+Dacula,non_binary,1
+Dallas,female,22
+Dallas,male,16
+Dallas,non_binary,7
+Danville,male,2
+Dardanelle,female,1
+Dardanelle,male,1
+Davenport,female,3
+Davenport,male,2
+Davenport,non_binary,5
+Dayton,female,1
+Decatur,male,2
+Deer Park,male,1
+Deland,non_binary,1
+Delray Beach,female,1
+Delray Beach,male,2
+Delray Beach,non_binary,1
+Deltona,female,2
+Deltona,male,1
+Denver,male,2
+Derby,female,1
+Des Moines,female,1
+Des Moines,male,2
+Des Plaines,male,1
+Des Plaines,non_binary,1
+Detroit,female,16
+Detroit,male,14
+Detroit,non_binary,1
+Dexter,female,1
+Diamond,male,4
+Dothan,female,7
+Dothan,male,4
+Dothan,non_binary,6
+Dublin,male,1
+Dubuque,female,1
+Duluth,female,3
+Duluth,male,1
+Duluth,non_binary,2
+Durham,female,4
+Durham,non_binary,1
+Easley,male,3
+East Aurora,male,1
+East Elmhurst,female,4
+East Elmhurst,male,5
+East Saint Louis,female,3
+East Saint Louis,male,7
+East Saint Louis,non_binary,1
+Eden,male,1
+Edgerton,female,1
+Edinburg,female,1
+Edwardsville,female,5
+Edwardsville,male,1
+Ekron,female,1
+El Cajon,female,4
+El Cajon,male,4
+El Cajon,non_binary,1
+El Paso,female,2
+El Paso,male,1
+Elbridge,female,2
+Elbridge,male,4
+Elbridge,non_binary,1
+Eldorado,female,1
+Elizabethton,male,1
+Elizabethton,non_binary,1
+Ellisburg,female,1
+Elmhurst,male,1
+Elmont,male,2
+Elmont,non_binary,1
+Englewood,non_binary,1
+Enterprise,male,1
+Erie,male,1
+Euless,female,1
+Euless,male,1
+Eureka,female,1
+Eureka,non_binary,1
+Evans City,female,1
+Evansville,male,2
+Excelsior,male,2
+Excelsior,non_binary,1
+Fairbanks,female,2
+Fairbanks,male,1
+Fairbanks,non_binary,2
+Fairdale,female,11
+Fairdale,male,8
+Fairfield,male,1
+Fairmont,male,5
+Farmington,female,5
+Farmington,male,2
+Farmington,non_binary,1
+Fayetteville,female,7
+Fayetteville,male,6
+Fayetteville,non_binary,3
+Ferndale,female,1
+Flint,female,2
+Flint,male,1
+Flint,non_binary,1
+Flora,female,2
+Flora,male,2
+Florence,female,11
+Florence,male,8
+Florence,non_binary,1
+Florissant,female,8
+Florissant,male,5
+Florissant,non_binary,1
+Flower Mound,female,2
+Flower Mound,male,2
+Flushing,female,1
+Flushing,male,1
+Flushing,non_binary,1
+Fontana,female,6
+Fontana,male,5
+Fontana,non_binary,3
+Forest Hill,male,1
+Forney,female,2
+Forney,non_binary,2
+Forsyth,female,1
+Forsyth,male,2
+Fort Hood,female,1
+Fort Hood,male,1
+Fort Lauderdale,female,4
+Fort Lauderdale,male,6
+Fort Lauderdale,non_binary,1
+Fort Smith,male,1
+Fort Worth,female,13
+Fort Worth,male,12
+Fort Worth,non_binary,3
+Four Oaks,male,1
+Frankfort,female,6
+Frankfort,male,7
+Franklin,female,1
+Fresno,female,1
+Fresno,male,1
+Fresno,non_binary,1
+Frisco,female,3
+Frisco,male,1
+Gadsden,male,1
+Gaffney,male,1
+Gainesville,female,2
+Gainesville,male,1
+Galloway,female,1
+Garden,female,3
+Garden,male,6
+Garden,non_binary,1
+Garland,male,1
+Garner,female,6
+Garner,male,8
+Garner,non_binary,1
+Garrett,male,1
+Gary,female,4
+Gary,male,8
+Gary,non_binary,4
+Gaston,female,1
+Gatesville,female,2
+Gatesville,male,3
+Gatesville,non_binary,1
+Germantown,female,1
+Gilbert,non_binary,1
+Gladewater,non_binary,1
+Goddard,male,2
+Golden,male,1
+Goldsboro,female,7
+Goldsboro,male,9
+Goldsboro,non_binary,3
+Goodview,female,2
+Goodview,male,3
+Goodview,non_binary,2
+Gouverneur,female,1
+Grafton,female,1
+Grafton,male,2
+Grand Island,female,2
+Grand Island,male,2
+Grand Junction,non_binary,1
+Grand Prairie,female,1
+Grand Prairie,male,1
+Grand Rapids,female,6
+Grand Rapids,male,10
+Grand Rapids,non_binary,3
+Grantville,male,2
+Great Neck,female,1
+Greenbelt,female,1
+Greensboro,female,2
+Greensboro,male,2
+Greensboro,non_binary,2
+Greensburg,male,1
+Greenville,female,9
+Greenville,male,15
+Greenville,non_binary,2
+Greer,female,3
+Gretna,female,5
+Gretna,male,3
+Gretna,non_binary,1
+Gulfport,female,1
+Gulfport,male,5
+Hallandale,male,1
+Hallandale,non_binary,1
+Hammond,female,1
+Hammond,male,1
+Hamtramck,female,1
+Hannibal,female,2
+Hannibal,male,1
+Hanover,female,1
+Harbor City,female,1
+Harbor City,male,2
+Harrison,female,9
+Harrison,male,7
+Harrisville,male,1
+Haskins,male,1
+Hattiesburg,non_binary,1
+Havana,male,2
+Havertown,non_binary,1
+Hayes,female,1
+Hayes,non_binary,1
+Hays,non_binary,1
+Haysville,male,1
+Hazleton,male,1
+Hemet,non_binary,1
+Hephzibah,male,1
+Hereford,male,2
+Heyburn,female,1
+Heyburn,male,1
+Hialeah,female,8
+Hialeah,male,7
+High Point,female,6
+High Point,male,7
+Hineston,female,1
+Hineston,non_binary,2
+Holland,female,1
+Hollywood,female,2
+Hollywood,male,3
+Hollywood,non_binary,2
+Homosassa,male,1
+Honea Path,female,1
+Honokaa,male,1
+Honolulu,female,4
+Honolulu,male,1
+Horse Cave,female,1
+Horse Cave,male,2
+Hot Springs Village,female,8
+Hot Springs Village,male,2
+Hot Springs Village,non_binary,6
+Houston,female,14
+Houston,male,15
+Houston,non_binary,10
+Hudson,female,9
+Hudson,male,3
+Hudson,non_binary,1
+Huffman,male,1
+Huntington,non_binary,1
+Huntsville,female,1
+Huntsville,male,3
+Hurricane,female,1
+Hutchinson,female,4
+Hutchinson,male,8
+Hutchinson,non_binary,3
+Hyattsville,female,2
+Hyattsville,male,3
+Hyattsville,non_binary,1
+Idaho Falls,female,1
+Idaho Falls,male,2
+Idaho Falls,non_binary,1
+Independence,female,1
+Indianapolis,female,19
+Indianapolis,male,32
+Indianapolis,non_binary,5
+Inkster,female,5
+Inkster,male,3
+Inkster,non_binary,2
+Inman,female,1
+Irvine,female,2
+Islip,female,7
+Islip,male,7
+Islip,non_binary,3
+Ithaca,female,2
+Ithaca,non_binary,1
+Jackson,female,1
+Jacksonville,female,9
+Jacksonville,male,5
+Jacksonville,non_binary,5
+Jamestown,female,7
+Jamestown,male,4
+Jamestown,non_binary,2
+Jennerstown,female,1
+Joliet,female,1
+Joliet,male,3
+Jonesboro,female,1
+Jonesboro,male,2
+Jonesboro,non_binary,1
+Joplin,female,3
+Joplin,male,2
+Jupiter,female,1
+Justice,female,1
+Kansas City,female,2
+Kansas City,male,4
+Kapolei,male,1
+Katy,male,2
+Katy,non_binary,2
+Keaau,female,1
+Kenosha,female,1
+Kerrville,male,1
+Kingsport,female,10
+Kingsport,male,9
+Kingston,female,1
+Kingwood,male,1
+Kissimmee,female,10
+Kissimmee,male,16
+Kissimmee,non_binary,4
+Knightdale,female,3
+Knightdale,male,5
+Knightdale,non_binary,8
+Knoxville,female,3
+Knoxville,male,3
+Knoxville,non_binary,9
+Kokomo,male,1
+Kutztown,female,1
+Kutztown,male,2
+La Canada Flintridge,female,1
+La Follette,male,2
+La Follette,non_binary,6
+La Junta,female,1
+Lafayette,female,7
+Lafayette,male,6
+Lafayette,non_binary,3
+Lagrange,female,1
+Lagrange,male,1
+Lake Butler,male,2
+Lake Elsinore,female,1
+Lake Elsinore,male,1
+Lake Elsinore,non_binary,3
+Lake Forest,male,1
+Lake Havasu City,female,2
+Lake Havasu City,male,1
+Lake Havasu City,non_binary,1
+Lake In The Hills,female,1
+Lake Station,male,1
+Lake Worth,non_binary,1
+Lakeland,non_binary,1
+Lakeview,male,1
+Lakewood,female,1
+Lancaster,female,6
+Lancaster,male,4
+Lancaster,non_binary,2
+Lanham,non_binary,1
+Lansdale,female,1
+Lansing,male,1
+Lansing,non_binary,1
+Largo,female,3
+Largo,male,3
+Las Vegas,female,2
+Las Vegas,male,6
+Las Vegas,non_binary,2
+Lathrop,male,2
+Lathrop,non_binary,1
+Latrobe,male,3
+Laurel,female,1
+Laurel,male,1
+Lawrenceville,non_binary,1
+Leadwood,female,2
+Leadwood,non_binary,1
+Lebanon,female,2
+Lebanon,male,6
+Lebanon,non_binary,1
+Leesburg,female,1
+Leesburg,male,1
+Leesburg,non_binary,3
+Lehigh Acres,male,2
+Leitchfield,male,3
+Lemoore,female,1
+Lenexa,non_binary,1
+Levittown,male,1
+Lewisburg,male,1
+Lexington,female,7
+Lexington,male,2
+Lexington,non_binary,1
+Lincoln,female,4
+Lincoln,male,1
+Lincolnton,female,1
+Lincolnton,male,2
+Lincolnton,non_binary,4
+Little Rock,female,3
+Little Rock,male,4
+Little Rock,non_binary,1
+Livonia,non_binary,1
+Lockport,female,4
+Lockport,male,5
+Lockport,non_binary,4
+Lodi,female,1
+Logansport,non_binary,1
+Longmont,female,1
+Longmont,non_binary,1
+Los Angeles,female,9
+Los Angeles,male,11
+Los Angeles,non_binary,5
+Los Lunas,female,1
+Louisville,female,5
+Louisville,male,4
+Louisville,non_binary,8
+Lovington,non_binary,1
+Loxley,male,1
+Loxley,non_binary,2
+Lubbock,male,3
+Ludowici,female,1
+Ludowici,non_binary,2
+Luling,female,1
+Luling,male,1
+Luling,non_binary,1
+Lumberton,female,2
+Lumberton,male,1
+Lynnwood,female,2
+Lynnwood,male,1
+Madera,female,1
+Madera,non_binary,1
+Madison,male,1
+Magna,female,4
+Magna,male,7
+Magna,non_binary,2
+Mansfield,female,1
+Maple Grove,female,5
+Maple Grove,male,8
+Maple Grove,non_binary,3
+Marbury,male,1
+Marion,female,7
+Marion,male,11
+Marion,non_binary,1
+Marshall,female,1
+Marshall,male,4
+Marshall,non_binary,2
+Mascotte,female,7
+Mascotte,male,6
+Mascotte,non_binary,1
+Maspeth,female,3
+Maspeth,non_binary,2
+Mastic,female,11
+Mastic,male,2
+Mastic,non_binary,1
+Matoaka,female,7
+Matoaka,male,2
+Matoaka,non_binary,1
+Matteson,male,1
+Maysville,female,2
+Maysville,male,1
+Mc Intosh,female,2
+Mc Intosh,non_binary,3
+Mc Roberts,female,1
+Mc Roberts,non_binary,1
+Mcdonough,female,7
+Mcdonough,male,8
+Mckinleyville,male,1
+Medina,female,7
+Medina,male,5
+Medina,non_binary,2
+Melissa,female,2
+Memphis,female,8
+Memphis,male,9
+Memphis,non_binary,1
+Menominee,male,1
+Menomonie,female,1
+Menomonie,non_binary,1
+Mesa,female,4
+Mesa,male,3
+Mesquite,female,1
+Mesquite,male,2
+Mesquite,non_binary,1
+Mexia,female,1
+Miami,female,11
+Miami,male,10
+Miami,non_binary,5
+Miami Beach,male,1
+Midland,male,1
+Midway,female,1
+Midway,non_binary,1
+Mikado,female,6
+Mikado,male,6
+Mikado,non_binary,1
+Milford,female,1
+Mill Creek,female,1
+Mill Creek,male,2
+Millen,non_binary,1
+Millsboro,female,7
+Millsboro,male,9
+Milwaukee,female,2
+Mineral Springs,male,1
+Minneapolis,female,2
+Minneapolis,male,6
+Mission,female,4
+Mission,male,8
+Mission,non_binary,1
+Mission Viejo,female,6
+Mission Viejo,male,7
+Mobile,non_binary,1
+Monaca,female,3
+Monaca,male,3
+Moncks Corner,male,3
+Moncks Corner,non_binary,1
+Monroe,female,6
+Monroe,male,5
+Monroe,non_binary,1
+Montague,female,1
+Montague,male,2
+Montgomery,non_binary,1
+Monticello,female,6
+Monticello,non_binary,3
+Mooresburg,female,9
+Mooresburg,male,5
+Mora,female,3
+Mora,male,7
+Morgantown,female,6
+Morgantown,male,7
+Morgantown,non_binary,3
+Morristown,female,1
+Morrisville,female,1
+Morrisville,non_binary,2
+Mount Morris,male,1
+Mount Pleasant,female,2
+Mount Pleasant,male,5
+Mount Pleasant,non_binary,1
+Mount Vernon,female,1
+Mount Washington,female,2
+Mount Washington,male,1
+Mount Washington,non_binary,2
+Mountain View,female,2
+Mountain View,male,1
+Mountlake Terrace,female,13
+Mountlake Terrace,male,15
+Mountlake Terrace,non_binary,5
+Muldrow,male,1
+Murfreesboro,female,4
+Murfreesboro,male,8
+Murfreesboro,non_binary,3
+Murphy,female,9
+Murphy,male,5
+Myrtle Creek,non_binary,1
+Nampa,female,1
+Nanticoke,female,1
+Naperville,female,1
+Nashville,female,3
+Nazareth,female,1
+Nazareth,male,3
+New Baltimore,female,1
+New Baltimore,male,6
+New Braunfels,female,2
+New Braunfels,male,4
+New Braunfels,non_binary,1
+New Castle,female,6
+New Castle,male,5
+New Castle,non_binary,1
+New Haven,female,9
+New Haven,male,5
+New Iberia,female,6
+New Iberia,male,5
+New Iberia,non_binary,1
+New Port Richey,female,1
+New Rochelle,female,6
+New Rochelle,male,9
+New Rochelle,non_binary,1
+New York,female,3
+New York,male,3
+New York,non_binary,1
+Newberry,non_binary,1
+Newport News,female,1
+Niagara Falls,female,1
+Nixa,male,1
+Norco,non_binary,1
+Norcross,female,1
+Norcross,male,4
+Norcross,non_binary,1
+Norfolk,female,1
+Norfolk,male,1
+Norristown,female,6
+Norristown,male,5
+Norristown,non_binary,4
+North Las Vegas,female,8
+North Las Vegas,male,5
+North Las Vegas,non_binary,7
+North Little Rock,female,1
+North Vernon,female,1
+Northville,male,6
+Northville,non_binary,2
+O Fallon,female,1
+O Fallon,male,1
+O Fallon,non_binary,2
+Oak Forest,female,6
+Oak Forest,male,7
+Oak Forest,non_binary,3
+Oak Hill,non_binary,1
+Oak Ridge,female,1
+Oakland,female,1
+Oakland Gardens,female,1
+Ocala,female,1
+Ocala,male,3
+Ocean Springs,male,1
+Oceana,female,1
+Odessa,female,2
+Ohatchee,male,1
+Oklahoma City,female,3
+Oklahoma City,male,8
+Oklahoma City,non_binary,2
+Olivehurst,female,4
+Olivehurst,male,1
+Olympia,male,1
+Onalaska,female,1
+Opa Locka,non_binary,1
+Orlando,female,3
+Orlando,male,2
+Orlando,non_binary,2
+Ormond Beach,female,2
+Ormond Beach,male,1
+Osceola,female,5
+Osceola,male,4
+Osceola,non_binary,5
+Oswego,male,1
+Ottawa,female,1
+Oxford,male,1
+Oxnard,female,2
+Oxnard,male,4
+Oxnard,non_binary,3
+Palm Bay,female,1
+Palm Beach,female,4
+Palm Beach,male,2
+Palmdale,male,1
+Pamplico,female,8
+Pamplico,male,3
+Pamplico,non_binary,7
+Panama City,female,3
+Panama City,male,1
+Panama City,non_binary,2
+Paragould,female,1
+Paris,male,1
+Parkersburg,female,1
+Parkton,female,9
+Parkton,male,7
+Pasadena,female,3
+Pasadena,male,4
+Pasadena,non_binary,3
+Pearland,female,3
+Pearland,male,2
+Pearland,non_binary,1
+Peculiar,female,1
+Pelzer,female,1
+Pensacola,female,3
+Pensacola,male,2
+Pensacola,non_binary,1
+Peoria,male,1
+Pflugerville,female,1
+Philadelphia,female,14
+Philadelphia,male,17
+Philadelphia,non_binary,10
+Phoenix,female,14
+Phoenix,male,9
+Phoenix,non_binary,10
+Pico Rivera,male,1
+Pineville,female,2
+Pineville,male,2
+Pittsburg,male,1
+Pittsburgh,male,3
+Placerville,female,3
+Placerville,male,2
+Plainfield,male,1
+Plainwell,non_binary,1
+Plano,female,1
+Plano,male,1
+Polson,female,1
+Pomona,female,1
+Pompano Beach,female,6
+Pompano Beach,male,10
+Pompano Beach,non_binary,1
+Ponchatoula,female,1
+Ponchatoula,male,2
+Portage,male,1
+Portage,non_binary,2
+Portland,female,9
+Portland,male,4
+Portland,non_binary,5
+Portsmouth,female,1
+Portsmouth,male,1
+Potsdam,female,4
+Potsdam,male,4
+Potsdam,non_binary,1
+Poway,female,1
+Poway,non_binary,1
+Powell,female,4
+Powell,male,2
+Powell,non_binary,5
+Pratt,female,1
+Pratt,non_binary,1
+Prattville,female,1
+Princeton,female,1
+Prineville,female,1
+Prineville,male,5
+Prineville,non_binary,1
+Prior Lake,female,1
+Prior Lake,male,1
+Provo,male,1
+Pueblo,male,1
+Punta Gorda,female,1
+Quail Valley,non_binary,1
+Rapid City,female,1
+Reading,female,3
+Reading,male,2
+Reading,non_binary,1
+Redding,female,5
+Redding,male,6
+Redding,non_binary,5
+Reno,female,1
+Rich Square,female,4
+Rich Square,male,3
+Rich Square,non_binary,1
+Richmond,female,1
+Richmond,male,2
+Richmond,non_binary,1
+Rio Rico,female,1
+Ripley,male,1
+Riverbank,female,3
+Riverbank,male,2
+Riverside,female,6
+Riverside,male,6
+Riverside,non_binary,2
+Riverview,female,1
+Riverview,male,2
+Roanoke,female,1
+Roanoke,male,2
+Rochester,female,1
+Rochester,male,1
+Rockford,female,13
+Rockford,male,11
+Rockford,non_binary,10
+Rocklin,male,1
+Rockmart,female,1
+Rockmart,male,2
+Rockville,female,1
+Rockville,male,4
+Rockwall,female,1
+Rome,male,1
+Rosenberg,female,1
+Rosenberg,male,1
+Sacramento,female,3
+Sacramento,non_binary,1
+Saint Albans,female,2
+Saint Cloud,male,1
+Saint Louis,male,1
+Saint Louis,non_binary,2
+Saint Stephen,female,1
+Salina,female,8
+Salina,male,5
+Salina,non_binary,1
+San Antonio,female,21
+San Antonio,male,16
+San Antonio,non_binary,2
+San Benito,female,6
+San Benito,male,3
+San Benito,non_binary,2
+San Diego,female,6
+San Diego,male,7
+San Diego,non_binary,3
+San Jacinto,female,2
+San Jacinto,male,1
+San Jose,female,4
+San Jose,male,8
+San Jose,non_binary,1
+San Lorenzo,non_binary,1
+San Tan Valley,female,1
+San Tan Valley,male,3
+San Tan Valley,non_binary,3
+Sandersville,female,2
+Sandersville,male,1
+Sandpoint,female,3
+Sandpoint,male,3
+Sandpoint,non_binary,2
+Santa Ana,female,1
+Santa Ana,male,1
+Santa Rosa,non_binary,1
+Sarasota,female,1
+Savannah,non_binary,1
+Schaumburg,female,1
+Scottsdale,female,1
+Scranton,male,1
+Seabrook,female,1
+Seattle,female,1
+Seattle,male,3
+Sedalia,female,5
+Sedalia,male,8
+Seffner,female,5
+Seffner,male,4
+Seffner,non_binary,2
+Seminole,male,1
+Seymour,female,1
+Sheboygan,male,1
+Shelbyville,female,1
+Shelbyville,male,2
+Shelbyville,non_binary,3
+Sherman,female,4
+Sherman,male,4
+Sherman,non_binary,1
+Sherrills Ford,female,1
+Shippensburg,female,1
+Shreveport,female,1
+Silsbee,non_binary,2
+Silver Spring,female,3
+Silver Spring,male,1
+Sioux Falls,female,4
+Sioux Falls,male,3
+Sioux Falls,non_binary,4
+Smithville,female,1
+Smithville,male,1
+Somerset,male,1
+South Holland,female,1
+Sparta,non_binary,1
+Spartanburg,female,2
+Spartanburg,male,1
+Spartanburg,non_binary,2
+Spring,female,6
+Spring,male,10
+Spring,non_binary,5
+Spring Valley,female,1
+Spring Valley,male,1
+Spring Valley,non_binary,1
+Springdale,female,5
+Springdale,male,3
+Springdale,non_binary,4
+Springfield,female,1
+Springfield,male,1
+Springfield,non_binary,2
+Springhill,female,7
+Springhill,male,2
+Springhill,non_binary,1
+Starks,female,1
+Staten Island,non_binary,1
+Statesboro,female,1
+Statesville,female,1
+Sterling,female,5
+Sterling,male,5
+Sterling Heights,female,5
+Sterling Heights,male,2
+Steubenville,male,2
+Stockton,female,2
+Stow,female,1
+Strafford,female,5
+Strafford,male,11
+Stuarts Draft,male,4
+Sturgeon Bay,male,1
+Summerville,female,2
+Suwanee,male,1
+Swartz Creek,male,1
+Tacoma,female,4
+Tacoma,male,5
+Tacoma,non_binary,7
+Tampa,female,1
+Tampa,male,6
+Tampa,non_binary,2
+Tell City,female,1
+Texarkana,female,10
+Texarkana,male,3
+Texarkana,non_binary,3
+Thermal,female,1
+Thousand Oaks,female,2
+Thousand Oaks,male,1
+Tiptonville,male,1
+Toccoa,non_binary,1
+Toledo,female,2
+Toledo,male,3
+Tomball,female,1
+Topeka,male,1
+Troup,male,1
+Tulsa,female,5
+Tulsa,male,3
+Tulsa,non_binary,1
+Tupelo,male,1
+Tuskegee,female,10
+Tuskegee,male,6
+Twin Oaks,male,1
+Tyler,female,5
+Tyler,male,4
+Tyler,non_binary,3
+Upper Darby,male,1
+Upper Marlboro,male,1
+Utica,female,6
+Utica,male,7
+Utica,non_binary,2
+Valdosta,male,1
+Valley Stream,male,1
+Valrico,female,1
+Vanceburg,male,1
+Vancouver,female,11
+Vancouver,male,7
+Vancouver,non_binary,2
+Venice,female,6
+Venice,male,6
+Venice,non_binary,2
+Ventura,female,2
+Ventura,male,4
+Ventura,non_binary,8
+Victorville,female,1
+Vienna,male,1
+Vienna,non_binary,1
+Villa Rica,non_binary,1
+Virginia Beach,female,1
+Virginia Beach,non_binary,1
+Vista,female,9
+Vista,male,7
+Vista,non_binary,1
+Wadley,female,7
+Wadley,male,6
+Wadley,non_binary,1
+Wadsworth,non_binary,1
+Waianae,male,1
+Waldorf,female,2
+Waldorf,male,1
+Walling,female,1
+Walling,male,1
+Walling,non_binary,2
+Walnut,female,7
+Walnut,non_binary,1
+Warner Robins,female,2
+Warner Robins,male,3
+Warrenton,female,12
+Warrenton,male,4
+Washington,female,10
+Washington,male,9
+Watertown,female,1
+Watsonville,female,2
+Watsonville,male,1
+Watsonville,non_binary,1
+Waynesboro,female,1
+Waynesburg,male,1
+Weaver,female,1
+Webster,male,3
+Weirton,female,1
+West Columbia,female,2
+West Columbia,male,1
+West Columbia,non_binary,1
+West Hempstead,male,1
+West Jefferson,non_binary,1
+West Palm Beach,female,17
+West Palm Beach,male,9
+West Palm Beach,non_binary,8
+Westerville,female,3
+Westerville,male,2
+Westerville,non_binary,1
+Westphalia,male,2
+Wheaton,male,1
+Wheeling,female,4
+Wheeling,male,7
+Wheeling,non_binary,3
+Whitehall,non_binary,1
+Whittier,male,1
+Wildwood,male,2
+Williamsburg,female,1
+Wilmington,female,3
+Wilmington,male,4
+Wilmington,non_binary,4
+Winamac,female,4
+Winamac,male,1
+Windsor Mill,female,1
+Winnetka,male,1
+Winston Salem,female,1
+Winter Haven,male,1
+Winton,male,1
+Winton,non_binary,1
+Wise,female,6
+Wise,male,5
+Woodbridge,female,2
+Woodbridge,male,5
+Woodside,male,1
+Woodward,female,1
+Woodward,male,4
+Yorba Linda,female,3
+Yorba Linda,male,5
+York,male,3
+Youngstown,female,2
+Youngstown,male,1
+Youngsville,male,1
+Yukon,female,1
+Zebulon,female,1
