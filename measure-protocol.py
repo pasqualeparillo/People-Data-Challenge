@@ -144,7 +144,7 @@ def main():
     # END GENERATE CITIES BY GENDER DISTRIBUTION
 
     # START GENERATE CITIES BY AVG TEMP
-    df_city_temp_avg = survey_df[["city", "avg_temp"]]
+    df_city_temp_avg = survey_df[["city", "avg_temp"]].drop_duplicates()
     df_city_temp_avg.to_csv("cities_by_avg_temp.csv", index=False)
     # ENG GENERATE CITIES BY AVG TEMP
 
